@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T11:11:16.015Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="JepaYMh4ELhe2_t6Fakg" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T07:13:19.849Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5BpGccPMNXSOn33S5a8b" version="13.10.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -87,9 +87,6 @@
             <mxPoint x="710" y="435" as="sourcePoint" />
             <mxPoint x="760" y="385" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ZWcvLshL3i0wxRY5K2vE-38" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;quot;menlo&amp;quot; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;FLOATING&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="780" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZWcvLshL3i0wxRY5K2vE-39" value="floating区域类型的层级视图容器" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1040" y="560" width="170" height="90" as="geometry" />
